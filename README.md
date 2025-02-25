@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+### What to do in this project?
+
+- Basics of angular
+- Rxjs and Reactive properties like observable and behaviour subject
+- components and compnents communication
+- standalone components and what was being used earlier
+- Tailwindcss configured in this project or material UI
+-  
+
