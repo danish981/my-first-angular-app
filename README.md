@@ -34,5 +34,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - components and compnents communication
 - standalone components and what was being used earlier
 - Tailwindcss configured in this project or material UI
+- What is Hydration ? (ProvidesClientHydration ...)
 -  
 
