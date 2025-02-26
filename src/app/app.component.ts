@@ -1,9 +1,12 @@
 import { Component } from '@angular/core';
+import { RouterOutlet } from "@angular/router";
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [],
+  imports: [
+    RouterOutlet
+  ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
@@ -21,8 +24,8 @@ export class AppComponent {
       link: 'www.turkey.com',
     },
     {
-      title : 'Another good country',
-      link : 'another good coutnry url'
+      title: 'Another good country',
+      link: 'another good country url'
     }
   ];
 }
